@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hello.dir/main.cpp.o -o hello   -L/home/flose/Data/Coding/Linux_C/Part10_工程管理cmake/exam5_使用库文件/lib1  -Wl,-rpath,/home/flose/Data/Coding/Linux_C/Part10_工程管理cmake/exam5_使用库文件/lib1 -lcalc 

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+set(CMAKE_CXX_STRANDARD 11)
+project(hello)
+file(GLOB SRC ${CMAKE_CURRENT_SOURCE_DIR}/*.c)
+set(EXECUTABLE_OUTPUT_PATH ../)
+add_executable(hello ${SRC})

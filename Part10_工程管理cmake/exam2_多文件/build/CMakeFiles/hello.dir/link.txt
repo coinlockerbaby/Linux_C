@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/hello.dir/add.c.o CMakeFiles/hello.dir/div.c.o CMakeFiles/hello.dir/main.c.o CMakeFiles/hello.dir/mult.c.o CMakeFiles/hello.dir/sub.c.o -o /home/flose/Data/Coding/Linux_C/Part10_工程管理cmake/exam2_多文件/hello 

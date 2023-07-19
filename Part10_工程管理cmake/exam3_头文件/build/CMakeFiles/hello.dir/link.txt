@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/hello.dir/src/add.c.o CMakeFiles/hello.dir/src/div.c.o CMakeFiles/hello.dir/src/main.c.o CMakeFiles/hello.dir/src/mult.c.o CMakeFiles/hello.dir/src/sub.c.o -o hello 
