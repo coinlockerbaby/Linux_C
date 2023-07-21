@@ -1,0 +1,3 @@
+/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.dir
+/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-subbuild/CMakeFiles/edit_cache.dir
+/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-subbuild/CMakeFiles/rebuild_cache.dir

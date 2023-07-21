@@ -1,0 +1,19 @@
+# ninja log v5
+0	7	1689855664271561851	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir	a95bc23c038c5a2c
+0	7	1689855664271561851	/home/flose/Data/Coding/FTXUI/ftxui-starter/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir	a95bc23c038c5a2c
+7	19125	1689855683388229383	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download	63f77150016e7c5f
+7	19125	1689855683388229383	/home/flose/Data/Coding/FTXUI/ftxui-starter/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download	63f77150016e7c5f
+19125	19129	1689855683391562715	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch	950bc45502e210e5
+19125	19129	1689855683391562715	/home/flose/Data/Coding/FTXUI/ftxui-starter/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch	950bc45502e210e5
+19129	19133	1689855683398229383	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	ec8edac022633089
+19129	19133	1689855683398229383	/home/flose/Data/Coding/FTXUI/ftxui-starter/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	ec8edac022633089
+19133	19137	1689855683401562716	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	f96d5f2541c5273d
+19133	19137	1689855683401562716	/home/flose/Data/Coding/FTXUI/ftxui-starter/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	f96d5f2541c5273d
+19137	19141	1689855683404896049	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	4ef3e787c2938303
+19137	19141	1689855683404896049	/home/flose/Data/Coding/FTXUI/ftxui-starter/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	4ef3e787c2938303
+19141	19145	1689855683408229384	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	bad730dc0acb9dbf
+19141	19145	1689855683408229384	/home/flose/Data/Coding/FTXUI/ftxui-starter/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	bad730dc0acb9dbf
+19145	19149	1689855683411562716	CMakeFiles/ftxui-populate-complete	404c63019af81d79
+19145	19149	1689855683411562716	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	404c63019af81d79
+19145	19149	1689855683411562716	/home/flose/Data/Coding/FTXUI/ftxui-starter/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete	404c63019af81d79
+19145	19149	1689855683411562716	/home/flose/Data/Coding/FTXUI/ftxui-starter/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	404c63019af81d79
