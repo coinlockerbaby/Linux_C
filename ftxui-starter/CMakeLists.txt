@@ -22,13 +22,14 @@ project(ftxui-starter
   VERSION 1.0.0
 )
 
-add_executable(ftxui src/main.cpp)
-target_include_directories(ftxui PRIVATE src)
-
-target_link_libraries(ftxui
+add_executable(ftxui-starter src/main.cpp src/serial.cpp)
+target_include_directories(ftxui-starter PRIVATE src include)
+link_directories(${CMAKE_SOURCE_DIR}/lib)
+target_link_libraries(ftxui-starter
   PRIVATE ftxui::screen
   PRIVATE ftxui::dom
   PRIVATE ftxui::component # Not needed for this example.
+  cserialport
 )
 
 if (EMSCRIPTEN) 

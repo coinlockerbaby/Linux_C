@@ -1,7 +1,7 @@
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o: \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp \
  /usr/include/stdc-predef.h \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.hpp \
  /usr/include/c++/13.1.1/memory /usr/include/c++/13.1.1/bits/memoryfwd.h \
  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -139,8 +139,8 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_pa
  /usr/include/c++/13.1.1/vector /usr/include/c++/13.1.1/bits/stl_vector.h \
  /usr/include/c++/13.1.1/bits/stl_bvector.h \
  /usr/include/c++/13.1.1/bits/vector.tcc \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/event.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/mouse.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/event.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/mouse.hpp \
  /usr/include/c++/13.1.1/functional \
  /usr/include/c++/13.1.1/bits/std_function.h \
  /usr/include/c++/13.1.1/unordered_map \
@@ -154,7 +154,7 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_pa
  /usr/include/c++/13.1.1/bits/algorithmfwd.h \
  /usr/include/c++/13.1.1/bits/stl_heap.h \
  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/receiver.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/receiver.hpp \
  /usr/include/c++/13.1.1/algorithm \
  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
  /usr/include/c++/13.1.1/atomic \
@@ -189,7 +189,7 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_pa
  /usr/include/c++/13.1.1/bits/deque.tcc \
  /usr/include/c++/13.1.1/bits/stl_queue.h /usr/include/c++/13.1.1/utility \
  /usr/include/c++/13.1.1/bits/stl_relops.h \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/task.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/task.hpp \
  /usr/include/c++/13.1.1/variant /usr/include/c++/13.1.1/map \
  /usr/include/c++/13.1.1/bits/stl_tree.h \
  /usr/include/c++/13.1.1/bits/stl_map.h \

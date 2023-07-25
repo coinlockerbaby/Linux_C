@@ -1,4 +1,4 @@
-# Install script for directory: /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples
+# Install script for directory: /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,8 +44,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component/cmake_install.cmake")
-  include("/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom/cmake_install.cmake")
+  include("/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component/cmake_install.cmake")
+  include("/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom/cmake_install.cmake")
 
 endif()
 

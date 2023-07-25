@@ -1,7 +1,7 @@
 _deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o: \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/canvas.cpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/canvas.cpp \
  /usr/include/stdc-predef.h \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/canvas.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/canvas.hpp \
  /usr/include/c++/13.1.1/cstddef \
  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -121,11 +121,11 @@ _deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o: \
  /usr/include/bits/types/error_t.h \
  /usr/include/c++/13.1.1/bits/charconv.h \
  /usr/include/c++/13.1.1/bits/basic_string.tcc \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
  /usr/include/c++/13.1.1/cstdint \
  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/stdint-uintn.h \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/screen.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/screen.hpp \
  /usr/include/c++/13.1.1/memory \
  /usr/include/c++/13.1.1/bits/stl_raw_storage_iter.h \
  /usr/include/c++/13.1.1/bits/align.h \
@@ -156,8 +156,8 @@ _deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o: \
  /usr/include/c++/13.1.1/backward/auto_ptr.h \
  /usr/include/c++/13.1.1/pstl/glue_memory_defs.h \
  /usr/include/c++/13.1.1/pstl/execution_defs.h \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp \
  /usr/include/c++/13.1.1/algorithm \
  /usr/include/c++/13.1.1/pstl/glue_algorithm_defs.h \
  /usr/include/c++/13.1.1/cmath /usr/include/math.h \
@@ -184,12 +184,12 @@ _deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o: \
  /usr/include/c++/13.1.1/bits/stl_multimap.h \
  /usr/include/c++/13.1.1/utility \
  /usr/include/c++/13.1.1/bits/stl_relops.h \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/elements.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/node.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/requirement.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/util/ref.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/string.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/deprecated.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/deprecated.hpp
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/elements.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/node.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/requirement.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/util/ref.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/string.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/deprecated.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/deprecated.hpp

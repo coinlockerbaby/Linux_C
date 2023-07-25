@@ -1,5 +1,5 @@
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o: \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/animation.cpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/animation.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13.1.1/cmath \
  /usr/include/c++/13.1.1/bits/requires_hosted.h \
  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -74,7 +74,7 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o: 
  /usr/include/bits/stdint-uintn.h /usr/include/c++/13.1.1/utility \
  /usr/include/c++/13.1.1/bits/stl_relops.h \
  /usr/include/c++/13.1.1/initializer_list \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/animation.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/animation.hpp \
  /usr/include/c++/13.1.1/chrono /usr/include/c++/13.1.1/bits/chrono.h \
  /usr/include/c++/13.1.1/ctime /usr/include/time.h \
  /usr/include/bits/time.h /usr/include/bits/timex.h \
@@ -121,8 +121,8 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o: 
  /usr/include/c++/13.1.1/bits/uniform_int_dist.h \
  /usr/include/c++/13.1.1/bits/stl_tempbuf.h \
  /usr/include/c++/13.1.1/cstdlib \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/event.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/mouse.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/event.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/mouse.hpp \
  /usr/include/c++/13.1.1/string /usr/include/c++/13.1.1/bits/stringfwd.h \
  /usr/include/c++/13.1.1/bits/char_traits.h \
  /usr/include/c++/13.1.1/bits/postypes.h /usr/include/c++/13.1.1/cwchar \

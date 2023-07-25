@@ -1,8 +1,8 @@
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o: \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/modal.cpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/modal.cpp \
  /usr/include/stdc-predef.h \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/event.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/mouse.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/event.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/mouse.hpp \
  /usr/include/c++/13.1.1/functional \
  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -122,7 +122,7 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o: \
  /usr/include/bits/types/error_t.h \
  /usr/include/c++/13.1.1/bits/charconv.h \
  /usr/include/c++/13.1.1/bits/basic_string.tcc \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/elements.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/elements.hpp \
  /usr/include/c++/13.1.1/memory \
  /usr/include/c++/13.1.1/bits/stl_raw_storage_iter.h \
  /usr/include/c++/13.1.1/bits/align.h \
@@ -155,29 +155,29 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o: \
  /usr/include/c++/13.1.1/backward/auto_ptr.h \
  /usr/include/c++/13.1.1/pstl/glue_memory_defs.h \
  /usr/include/c++/13.1.1/pstl/execution_defs.h \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/canvas.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/canvas.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
  /usr/include/c++/13.1.1/cstdint \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/screen.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/node.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/requirement.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/util/ref.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/string.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/deprecated.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/screen.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/node.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/requirement.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/util/ref.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/string.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/deprecated.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
  /usr/include/c++/13.1.1/utility \
  /usr/include/c++/13.1.1/bits/stl_relops.h \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/component.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/component_base.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/component_options.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/component.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/component_base.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/component_options.hpp \
  /usr/include/c++/13.1.1/chrono /usr/include/c++/13.1.1/bits/chrono.h \
  /usr/include/c++/13.1.1/ratio /usr/include/c++/13.1.1/limits \
  /usr/include/c++/13.1.1/ctime \
  /usr/include/c++/13.1.1/bits/parse_numbers.h \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/animation.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/animation.hpp \
  /usr/include/c++/13.1.1/optional

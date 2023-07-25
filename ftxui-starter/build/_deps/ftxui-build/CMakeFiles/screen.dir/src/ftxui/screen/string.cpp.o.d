@@ -1,7 +1,7 @@
 _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o: \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/string.cpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/string.cpp \
  /usr/include/stdc-predef.h \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/string.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/string.hpp \
  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stddef.h \
  /usr/include/c++/13.1.1/string \
  /usr/include/c++/13.1.1/bits/requires_hosted.h \
@@ -107,7 +107,7 @@ _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o: \
  /usr/include/c++/13.1.1/bits/stl_vector.h \
  /usr/include/c++/13.1.1/bits/stl_bvector.h \
  /usr/include/c++/13.1.1/bits/vector.tcc \
- /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/deprecated.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/screen/deprecated.hpp \
  /usr/include/c++/13.1.1/array /usr/include/c++/13.1.1/compare \
  /usr/include/c++/13.1.1/cstdint \
  /usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include/stdint.h \

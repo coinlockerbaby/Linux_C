@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/gauge_direction.cpp" "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_gauge_direction.dir/gauge_direction.cpp.o" "gcc" "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_gauge_direction.dir/gauge_direction.cpp.o.d"
+  "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/gauge_direction.cpp" "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_gauge_direction.dir/gauge_direction.cpp.o" "gcc" "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_gauge_direction.dir/gauge_direction.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,848 +1,854 @@
 [
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -o CMakeFiles/ftxui.dir/src/main.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/src/main.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/src/main.cpp",
-  "output": "CMakeFiles/ftxui.dir/src/main.cpp.o"
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/src -I/home/flose/Data/Code/Linux_C/ftxui-starter/include -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -o CMakeFiles/ftxui-starter.dir/src/main.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/src/main.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/src/main.cpp",
+  "output": "CMakeFiles/ftxui-starter.dir/src/main.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/box.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/box.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/src -I/home/flose/Data/Code/Linux_C/ftxui-starter/include -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -o CMakeFiles/ftxui-starter.dir/src/serial.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/src/serial.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/src/serial.cpp",
+  "output": "CMakeFiles/ftxui-starter.dir/src/serial.cpp.o"
+},
+{
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/box.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/box.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/color.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/color.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/color.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/color.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/screen.dir/src/ftxui/screen/color_info.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/color_info.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/color_info.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/screen.dir/src/ftxui/screen/color_info.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/color_info.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/color_info.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/color_info.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/screen.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/screen.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/screen.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/screen.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/string.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/string.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/string.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/string.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/terminal.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/terminal.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/terminal.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/screen/terminal.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/automerge.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/automerge.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/automerge.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/automerge.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/blink.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/blink.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/blink.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/blink.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/bold.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/bold.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/bold.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/bold.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/border.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/border.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/border.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/border.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/box_helper.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/box_helper.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/box_helper.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/box_helper.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/canvas.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/canvas.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/canvas.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/canvas.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/clear_under.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/clear_under.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/clear_under.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/clear_under.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/color.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/color.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/color.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/color.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/composite_decorator.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/composite_decorator.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/composite_decorator.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/composite_decorator.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/dbox.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/dbox.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/dbox.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/dbox.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/dim.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/dim.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/dim.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/dim.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/flex.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/flex.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/flex.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/flex.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/flexbox.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/flexbox.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/flexbox.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/flexbox.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/flexbox_config.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/flexbox_config.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/flexbox_config.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/flexbox_config.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/flexbox_helper.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/flexbox_helper.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/flexbox_helper.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/flexbox_helper.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/focus.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/focus.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/focus.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/focus.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/frame.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/frame.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/frame.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/frame.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/gauge.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/gauge.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/gauge.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/gauge.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/graph.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/graph.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/graph.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/graph.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/gridbox.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/gridbox.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/gridbox.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/gridbox.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/hbox.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/hbox.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/hbox.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/hbox.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/inverted.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/inverted.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/inverted.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/inverted.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/node.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/node.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/node.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/node.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/node_decorator.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/node_decorator.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/node_decorator.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/node_decorator.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/paragraph.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/paragraph.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/paragraph.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/paragraph.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/reflect.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/reflect.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/reflect.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/reflect.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/scroll_indicator.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/scroll_indicator.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/scroll_indicator.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/scroll_indicator.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/separator.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/separator.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/separator.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/separator.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/size.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/size.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/size.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/size.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/spinner.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/spinner.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/spinner.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/spinner.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/strikethrough.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/strikethrough.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/strikethrough.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/strikethrough.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/table.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/table.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/table.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/table.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/text.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/text.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/text.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/text.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/underlined.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/underlined.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/underlined.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/underlined.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/underlined_double.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/underlined_double.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/underlined_double.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/underlined_double.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/util.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/util.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/util.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/util.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/vbox.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/vbox.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/vbox.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/dom/vbox.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/animation.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/animation.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/animation.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/animation.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/button.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/button.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/button.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/button.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/button.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/button.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/button.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/catch_event.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/catch_event.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/catch_event.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/catch_event.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/checkbox.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/checkbox.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/checkbox.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/checkbox.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/collapsible.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/collapsible.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/collapsible.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/collapsible.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/component.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/component.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/component.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/component.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/component.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/component.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/component.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/component_options.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/component_options.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/component_options.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/component_options.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/container.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/container.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/container.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/container.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/container.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/container.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/container.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/dropdown.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/dropdown.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/dropdown.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/dropdown.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/event.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/event.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/event.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/event.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/event.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/event.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/event.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/hoverable.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/hoverable.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/hoverable.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/hoverable.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/input.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/input.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/input.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/input.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/input.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/input.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/input.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/loop.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/loop.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/loop.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/loop.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/maybe.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/maybe.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/maybe.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/maybe.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/menu.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/menu.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/menu.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/menu.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/menu.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/menu.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/menu.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/modal.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/modal.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/modal.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/modal.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/radiobox.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/radiobox.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/radiobox.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/radiobox.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/renderer.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/renderer.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/renderer.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/renderer.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/resizable_split.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/resizable_split.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/resizable_split.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/resizable_split.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/resizable_split.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/resizable_split.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/resizable_split.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/screen_interactive.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/screen_interactive.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/screen_interactive.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/screen_interactive.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/slider.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/slider.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/slider.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/slider.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/util.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/util.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/util.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=c++17 -Wall -Wextra -pedantic -Werror -Wmissing-declarations -Wdeprecated -Wshadow -o CMakeFiles/component.dir/src/ftxui/component/util.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/util.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/src/ftxui/component/util.cpp",
   "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/util.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_button.dir/button.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/button.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/button.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_button.dir/button.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/button.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/button.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_button.dir/button.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_button_animated.dir/button_animated.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/button_animated.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/button_animated.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_button_animated.dir/button_animated.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/button_animated.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/button_animated.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_button_animated.dir/button_animated.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_button_in_frame.dir/button_in_frame.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/button_in_frame.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/button_in_frame.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_button_in_frame.dir/button_in_frame.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/button_in_frame.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/button_in_frame.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_button_in_frame.dir/button_in_frame.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_button_style.dir/button_style.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/button_style.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/button_style.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_button_style.dir/button_style.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/button_style.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/button_style.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_button_style.dir/button_style.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_canvas_animated.dir/canvas_animated.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/canvas_animated.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/canvas_animated.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_canvas_animated.dir/canvas_animated.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/canvas_animated.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/canvas_animated.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_canvas_animated.dir/canvas_animated.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_checkbox.dir/checkbox.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/checkbox.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/checkbox.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_checkbox.dir/checkbox.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/checkbox.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/checkbox.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_checkbox.dir/checkbox.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_checkbox_in_frame.dir/checkbox_in_frame.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/checkbox_in_frame.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/checkbox_in_frame.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_checkbox_in_frame.dir/checkbox_in_frame.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/checkbox_in_frame.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/checkbox_in_frame.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_checkbox_in_frame.dir/checkbox_in_frame.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_collapsible.dir/collapsible.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/collapsible.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/collapsible.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_collapsible.dir/collapsible.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/collapsible.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/collapsible.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_collapsible.dir/collapsible.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_composition.dir/composition.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/composition.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/composition.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_composition.dir/composition.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/composition.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/composition.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_composition.dir/composition.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_custom_loop.dir/custom_loop.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/custom_loop.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/custom_loop.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_custom_loop.dir/custom_loop.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/custom_loop.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/custom_loop.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_custom_loop.dir/custom_loop.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_dropdown.dir/dropdown.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/dropdown.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/dropdown.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_dropdown.dir/dropdown.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/dropdown.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/dropdown.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_dropdown.dir/dropdown.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_flexbox_gallery.dir/flexbox_gallery.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/flexbox_gallery.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/flexbox_gallery.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_flexbox_gallery.dir/flexbox_gallery.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/flexbox_gallery.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/flexbox_gallery.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_flexbox_gallery.dir/flexbox_gallery.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_focus.dir/focus.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/focus.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/focus.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_focus.dir/focus.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/focus.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/focus.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_focus.dir/focus.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_focus_cursor.dir/focus_cursor.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/focus_cursor.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/focus_cursor.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_focus_cursor.dir/focus_cursor.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/focus_cursor.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/focus_cursor.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_focus_cursor.dir/focus_cursor.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_gallery.dir/gallery.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/gallery.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/gallery.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_gallery.dir/gallery.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/gallery.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/gallery.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_gallery.dir/gallery.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_homescreen.dir/homescreen.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/homescreen.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/homescreen.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_homescreen.dir/homescreen.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/homescreen.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/homescreen.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_homescreen.dir/homescreen.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_input.dir/input.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/input.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/input.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_input.dir/input.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/input.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/input.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_input.dir/input.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_maybe.dir/maybe.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/maybe.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/maybe.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_maybe.dir/maybe.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/maybe.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/maybe.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_maybe.dir/maybe.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_menu.dir/menu.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/menu.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/menu.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_menu.dir/menu.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/menu.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/menu.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_menu.dir/menu.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_menu2.dir/menu2.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/menu2.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/menu2.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_menu2.dir/menu2.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/menu2.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/menu2.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_menu2.dir/menu2.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_menu_entries.dir/menu_entries.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_entries.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_entries.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_menu_entries.dir/menu_entries.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_entries.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_entries.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_menu_entries.dir/menu_entries.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_menu_entries_animated.dir/menu_entries_animated.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_entries_animated.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_entries_animated.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_menu_entries_animated.dir/menu_entries_animated.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_entries_animated.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_entries_animated.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_menu_entries_animated.dir/menu_entries_animated.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_menu_in_frame.dir/menu_in_frame.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_in_frame.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_in_frame.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_menu_in_frame.dir/menu_in_frame.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_in_frame.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_in_frame.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_menu_in_frame.dir/menu_in_frame.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_menu_multiple.dir/menu_multiple.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_multiple.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_multiple.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_menu_multiple.dir/menu_multiple.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_multiple.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_multiple.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_menu_multiple.dir/menu_multiple.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_menu_style.dir/menu_style.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_style.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_style.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_menu_style.dir/menu_style.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_style.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_style.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_menu_style.dir/menu_style.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_menu_underline_animated_gallery.dir/menu_underline_animated_gallery.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_underline_animated_gallery.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_underline_animated_gallery.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_menu_underline_animated_gallery.dir/menu_underline_animated_gallery.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_underline_animated_gallery.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/menu_underline_animated_gallery.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_menu_underline_animated_gallery.dir/menu_underline_animated_gallery.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_modal_dialog.dir/modal_dialog.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/modal_dialog.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/modal_dialog.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_modal_dialog.dir/modal_dialog.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/modal_dialog.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/modal_dialog.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_modal_dialog.dir/modal_dialog.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_modal_dialog_custom.dir/modal_dialog_custom.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/modal_dialog_custom.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/modal_dialog_custom.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_modal_dialog_custom.dir/modal_dialog_custom.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/modal_dialog_custom.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/modal_dialog_custom.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_modal_dialog_custom.dir/modal_dialog_custom.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_nested_screen.dir/nested_screen.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/nested_screen.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/nested_screen.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_nested_screen.dir/nested_screen.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/nested_screen.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/nested_screen.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_nested_screen.dir/nested_screen.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_print_key_press.dir/print_key_press.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/print_key_press.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/print_key_press.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_print_key_press.dir/print_key_press.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/print_key_press.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/print_key_press.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_print_key_press.dir/print_key_press.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_radiobox.dir/radiobox.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/radiobox.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/radiobox.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_radiobox.dir/radiobox.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/radiobox.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/radiobox.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_radiobox.dir/radiobox.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_radiobox_in_frame.dir/radiobox_in_frame.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/radiobox_in_frame.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/radiobox_in_frame.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_radiobox_in_frame.dir/radiobox_in_frame.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/radiobox_in_frame.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/radiobox_in_frame.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_radiobox_in_frame.dir/radiobox_in_frame.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_renderer.dir/renderer.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/renderer.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/renderer.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_renderer.dir/renderer.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/renderer.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/renderer.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_renderer.dir/renderer.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_resizable_split.dir/resizable_split.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/resizable_split.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/resizable_split.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_resizable_split.dir/resizable_split.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/resizable_split.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/resizable_split.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_resizable_split.dir/resizable_split.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_slider.dir/slider.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/slider.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/slider.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_slider.dir/slider.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/slider.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/slider.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_slider.dir/slider.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_slider_direction.dir/slider_direction.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/slider_direction.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/slider_direction.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_slider_direction.dir/slider_direction.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/slider_direction.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/slider_direction.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_slider_direction.dir/slider_direction.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_slider_rgb.dir/slider_rgb.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/slider_rgb.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/slider_rgb.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_slider_rgb.dir/slider_rgb.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/slider_rgb.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/slider_rgb.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_slider_rgb.dir/slider_rgb.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_tab_horizontal.dir/tab_horizontal.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/tab_horizontal.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/tab_horizontal.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_tab_horizontal.dir/tab_horizontal.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/tab_horizontal.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/tab_horizontal.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_tab_horizontal.dir/tab_horizontal.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_tab_vertical.dir/tab_vertical.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/tab_vertical.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/tab_vertical.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_tab_vertical.dir/tab_vertical.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/tab_vertical.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/tab_vertical.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_tab_vertical.dir/tab_vertical.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_toggle.dir/toggle.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/toggle.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/toggle.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_toggle.dir/toggle.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/toggle.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/toggle.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_toggle.dir/toggle.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/component",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_with_restored_io.dir/with_restored_io.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/with_restored_io.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/component/with_restored_io.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/component",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_with_restored_io.dir/with_restored_io.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/with_restored_io.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/component/with_restored_io.cpp",
   "output": "_deps/ftxui-build/examples/component/CMakeFiles/ftxui_example_with_restored_io.dir/with_restored_io.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_border.dir/border.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/border.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/border.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_border.dir/border.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/border.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/border.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_border.dir/border.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_border_style.dir/border_style.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/border_style.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/border_style.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_border_style.dir/border_style.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/border_style.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/border_style.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_border_style.dir/border_style.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_color_gallery.dir/color_gallery.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/color_gallery.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/color_gallery.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_color_gallery.dir/color_gallery.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/color_gallery.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/color_gallery.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_color_gallery.dir/color_gallery.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_color_info_palette256.dir/color_info_palette256.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/color_info_palette256.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/color_info_palette256.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_color_info_palette256.dir/color_info_palette256.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/color_info_palette256.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/color_info_palette256.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_color_info_palette256.dir/color_info_palette256.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_color_truecolor_HSV.dir/color_truecolor_HSV.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/color_truecolor_HSV.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/color_truecolor_HSV.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_color_truecolor_HSV.dir/color_truecolor_HSV.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/color_truecolor_HSV.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/color_truecolor_HSV.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_color_truecolor_HSV.dir/color_truecolor_HSV.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_color_truecolor_RGB.dir/color_truecolor_RGB.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/color_truecolor_RGB.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/color_truecolor_RGB.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_color_truecolor_RGB.dir/color_truecolor_RGB.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/color_truecolor_RGB.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/color_truecolor_RGB.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_color_truecolor_RGB.dir/color_truecolor_RGB.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_dbox.dir/dbox.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/dbox.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/dbox.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_dbox.dir/dbox.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/dbox.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/dbox.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_dbox.dir/dbox.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_canvas.dir/canvas.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/canvas.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/canvas.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_canvas.dir/canvas.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/canvas.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/canvas.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_canvas.dir/canvas.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_gauge.dir/gauge.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/gauge.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/gauge.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_gauge.dir/gauge.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/gauge.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/gauge.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_gauge.dir/gauge.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_gauge_direction.dir/gauge_direction.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/gauge_direction.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/gauge_direction.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_gauge_direction.dir/gauge_direction.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/gauge_direction.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/gauge_direction.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_gauge_direction.dir/gauge_direction.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_graph.dir/graph.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/graph.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/graph.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_graph.dir/graph.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/graph.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/graph.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_graph.dir/graph.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_gridbox.dir/gridbox.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/gridbox.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/gridbox.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_gridbox.dir/gridbox.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/gridbox.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/gridbox.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_gridbox.dir/gridbox.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_hflow.dir/hflow.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/hflow.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/hflow.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_hflow.dir/hflow.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/hflow.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/hflow.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_hflow.dir/hflow.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_html_like.dir/html_like.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/html_like.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/html_like.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_html_like.dir/html_like.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/html_like.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/html_like.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_html_like.dir/html_like.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_package_manager.dir/package_manager.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/package_manager.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/package_manager.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_package_manager.dir/package_manager.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/package_manager.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/package_manager.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_package_manager.dir/package_manager.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_paragraph.dir/paragraph.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/paragraph.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/paragraph.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_paragraph.dir/paragraph.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/paragraph.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/paragraph.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_paragraph.dir/paragraph.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_separator.dir/separator.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/separator.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/separator.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_separator.dir/separator.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/separator.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/separator.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_separator.dir/separator.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_separator_style.dir/separator_style.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/separator_style.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/separator_style.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_separator_style.dir/separator_style.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/separator_style.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/separator_style.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_separator_style.dir/separator_style.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_size.dir/size.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/size.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/size.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_size.dir/size.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/size.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/size.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_size.dir/size.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_spinner.dir/spinner.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/spinner.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/spinner.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_spinner.dir/spinner.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/spinner.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/spinner.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_spinner.dir/spinner.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_blink.dir/style_blink.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_blink.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_blink.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_blink.dir/style_blink.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_blink.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_blink.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_style_blink.dir/style_blink.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_bold.dir/style_bold.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_bold.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_bold.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_bold.dir/style_bold.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_bold.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_bold.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_style_bold.dir/style_bold.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_color.dir/style_color.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_color.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_color.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_color.dir/style_color.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_color.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_color.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_style_color.dir/style_color.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_dim.dir/style_dim.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_dim.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_dim.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_dim.dir/style_dim.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_dim.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_dim.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_style_dim.dir/style_dim.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_gallery.dir/style_gallery.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_gallery.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_gallery.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_gallery.dir/style_gallery.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_gallery.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_gallery.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_style_gallery.dir/style_gallery.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_inverted.dir/style_inverted.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_inverted.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_inverted.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_inverted.dir/style_inverted.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_inverted.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_inverted.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_style_inverted.dir/style_inverted.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_strikethrough.dir/style_strikethrough.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_strikethrough.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_strikethrough.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_strikethrough.dir/style_strikethrough.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_strikethrough.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_strikethrough.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_style_strikethrough.dir/style_strikethrough.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_underlined.dir/style_underlined.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_underlined.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_underlined.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_underlined.dir/style_underlined.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_underlined.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_underlined.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_style_underlined.dir/style_underlined.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_underlined_double.dir/style_underlined_double.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_underlined_double.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_underlined_double.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_style_underlined_double.dir/style_underlined_double.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_underlined_double.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/style_underlined_double.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_style_underlined_double.dir/style_underlined_double.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_table.dir/table.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/table.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/table.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_table.dir/table.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/table.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/table.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_table.dir/table.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_vbox_hbox.dir/vbox_hbox.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/vbox_hbox.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/vbox_hbox.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_vbox_hbox.dir/vbox_hbox.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/vbox_hbox.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/vbox_hbox.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_vbox_hbox.dir/vbox_hbox.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_vflow.dir/vflow.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/vflow.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/vflow.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_vflow.dir/vflow.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/vflow.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/vflow.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_vflow.dir/vflow.cpp.o"
 },
 {
-  "directory": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build/examples/dom",
-  "command": "/usr/bin/g++  -isystem /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_window.dir/window.cpp.o -c /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/window.cpp",
-  "file": "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom/window.cpp",
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build/examples/dom",
+  "command": "/usr/bin/g++  -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -std=gnu++20 -o CMakeFiles/ftxui_example_window.dir/window.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/window.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom/window.cpp",
   "output": "_deps/ftxui-build/examples/dom/CMakeFiles/ftxui_example_window.dir/window.cpp.o"
 }
 ]

@@ -1,4 +1,4 @@
-# Install script for directory: /home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src/examples/dom
+# Install script for directory: /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/examples/dom
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

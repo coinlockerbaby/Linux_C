@@ -6,8 +6,9 @@ file(REMOVE_RECURSE
   "ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download"
   "ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install"
   "ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir"
-  "ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch"
+  "ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch_disconnected"
   "ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test"
+  "ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update_disconnected"
 )
 
 # Per-language clean rules from dependency scanning.

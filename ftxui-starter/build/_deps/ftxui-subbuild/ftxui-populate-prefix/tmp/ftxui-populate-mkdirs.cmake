@@ -4,19 +4,19 @@
 cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
-  "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-src"
-  "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-build"
-  "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-subbuild/ftxui-populate-prefix"
-  "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-subbuild/ftxui-populate-prefix/tmp"
-  "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp"
-  "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src"
-  "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp"
+  "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src"
+  "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build"
+  "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-subbuild/ftxui-populate-prefix"
+  "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-subbuild/ftxui-populate-prefix/tmp"
+  "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp"
+  "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src"
+  "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/${subDir}")
+    file(MAKE_DIRECTORY "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "/home/flose/Data/Coding/FTXUI/ftxui-starter/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp${cfgdir}") # cfgdir has leading slash
 endif()
