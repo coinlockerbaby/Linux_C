@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ftxui-starter.dir/src/main.cpp.o"
   "CMakeFiles/ftxui-starter.dir/src/main.cpp.o.d"
-  "CMakeFiles/ftxui-starter.dir/src/serial.cpp.o"
-  "CMakeFiles/ftxui-starter.dir/src/serial.cpp.o.d"
+  "CMakeFiles/ftxui-starter.dir/src/process.cpp.o"
+  "CMakeFiles/ftxui-starter.dir/src/process.cpp.o.d"
+  "CMakeFiles/ftxui-starter.dir/src/thread.cpp.o"
+  "CMakeFiles/ftxui-starter.dir/src/thread.cpp.o.d"
   "ftxui-starter"
   "ftxui-starter.pdb"
 )

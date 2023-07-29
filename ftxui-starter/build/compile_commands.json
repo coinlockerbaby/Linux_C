@@ -1,15 +1,21 @@
 [
 {
   "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/src -I/home/flose/Data/Code/Linux_C/ftxui-starter/include -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -o CMakeFiles/ftxui-starter.dir/src/main.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/src/main.cpp",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/src -I/home/flose/Data/Code/Linux_C/ftxui-starter/include -I/home/flose/Data/Code/Linux_C/ftxui-starter/include/CSerialPort -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -o CMakeFiles/ftxui-starter.dir/src/main.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/src/main.cpp",
   "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/src/main.cpp",
   "output": "CMakeFiles/ftxui-starter.dir/src/main.cpp.o"
 },
 {
   "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build",
-  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/src -I/home/flose/Data/Code/Linux_C/ftxui-starter/include -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -o CMakeFiles/ftxui-starter.dir/src/serial.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/src/serial.cpp",
-  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/src/serial.cpp",
-  "output": "CMakeFiles/ftxui-starter.dir/src/serial.cpp.o"
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/src -I/home/flose/Data/Code/Linux_C/ftxui-starter/include -I/home/flose/Data/Code/Linux_C/ftxui-starter/include/CSerialPort -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -o CMakeFiles/ftxui-starter.dir/src/process.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/src/process.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/src/process.cpp",
+  "output": "CMakeFiles/ftxui-starter.dir/src/process.cpp.o"
+},
+{
+  "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build",
+  "command": "/usr/bin/g++  -I/home/flose/Data/Code/Linux_C/ftxui-starter/src -I/home/flose/Data/Code/Linux_C/ftxui-starter/include -I/home/flose/Data/Code/Linux_C/ftxui-starter/include/CSerialPort -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include -g -o CMakeFiles/ftxui-starter.dir/src/thread.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/src/thread.cpp",
+  "file": "/home/flose/Data/Code/Linux_C/ftxui-starter/src/thread.cpp",
+  "output": "CMakeFiles/ftxui-starter.dir/src/thread.cpp.o"
 },
 {
   "directory": "/home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-build",

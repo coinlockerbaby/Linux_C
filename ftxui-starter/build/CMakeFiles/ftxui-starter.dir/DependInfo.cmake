@@ -9,7 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/flose/Data/Code/Linux_C/ftxui-starter/src/main.cpp" "CMakeFiles/ftxui-starter.dir/src/main.cpp.o" "gcc" "CMakeFiles/ftxui-starter.dir/src/main.cpp.o.d"
-  "/home/flose/Data/Code/Linux_C/ftxui-starter/src/serial.cpp" "CMakeFiles/ftxui-starter.dir/src/serial.cpp.o" "gcc" "CMakeFiles/ftxui-starter.dir/src/serial.cpp.o.d"
+  "/home/flose/Data/Code/Linux_C/ftxui-starter/src/process.cpp" "CMakeFiles/ftxui-starter.dir/src/process.cpp.o" "gcc" "CMakeFiles/ftxui-starter.dir/src/process.cpp.o.d"
+  "/home/flose/Data/Code/Linux_C/ftxui-starter/src/thread.cpp" "CMakeFiles/ftxui-starter.dir/src/thread.cpp.o" "gcc" "CMakeFiles/ftxui-starter.dir/src/thread.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

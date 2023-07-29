@@ -214,4 +214,17 @@ CMakeFiles/ftxui-starter.dir/src/main.cpp.o: \
  /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
  /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
  /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include/ftxui/component/component_options.hpp \
- /usr/include/c++/13.1.1/optional
+ /usr/include/c++/13.1.1/optional \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/include/process.hpp \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/include/CSerialPort/SerialPort.h \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/include/CSerialPort/SerialPort_global.h \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/include/CSerialPort/SerialPortListener.h \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/include/CSerialPort/SerialPortInfo.h \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/include/thread.hpp \
+ /usr/include/unistd.h /usr/include/bits/posix_opt.h \
+ /usr/include/bits/environments.h /usr/include/bits/confname.h \
+ /usr/include/bits/getopt_posix.h /usr/include/bits/getopt_core.h \
+ /usr/include/bits/unistd_ext.h /usr/include/linux/close_range.h \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/include/process.hpp \
+ /usr/include/sys/time.h /usr/include/string.h /usr/include/strings.h \
+ /home/flose/Data/Code/Linux_C/ftxui-starter/include/CSerialPort/SerialPort.h

@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/g++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/flose/Data/Code/Linux_C/ftxui-starter/src -I/home/flose/Data/Code/Linux_C/ftxui-starter/include -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include
+CXX_INCLUDES = -I/home/flose/Data/Code/Linux_C/ftxui-starter/src -I/home/flose/Data/Code/Linux_C/ftxui-starter/include -I/home/flose/Data/Code/Linux_C/ftxui-starter/include/CSerialPort -isystem /home/flose/Data/Code/Linux_C/ftxui-starter/build/_deps/ftxui-src/include
 
 CXX_FLAGS = -g
 

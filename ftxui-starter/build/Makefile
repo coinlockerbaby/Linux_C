@@ -1219,29 +1219,53 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui-starter.dir/build.make CMakeFiles/ftxui-starter.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
-src/serial.o: src/serial.cpp.o
-.PHONY : src/serial.o
+src/process.o: src/process.cpp.o
+.PHONY : src/process.o
 
 # target to build an object file
-src/serial.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui-starter.dir/build.make CMakeFiles/ftxui-starter.dir/src/serial.cpp.o
-.PHONY : src/serial.cpp.o
+src/process.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui-starter.dir/build.make CMakeFiles/ftxui-starter.dir/src/process.cpp.o
+.PHONY : src/process.cpp.o
 
-src/serial.i: src/serial.cpp.i
-.PHONY : src/serial.i
+src/process.i: src/process.cpp.i
+.PHONY : src/process.i
 
 # target to preprocess a source file
-src/serial.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui-starter.dir/build.make CMakeFiles/ftxui-starter.dir/src/serial.cpp.i
-.PHONY : src/serial.cpp.i
+src/process.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui-starter.dir/build.make CMakeFiles/ftxui-starter.dir/src/process.cpp.i
+.PHONY : src/process.cpp.i
 
-src/serial.s: src/serial.cpp.s
-.PHONY : src/serial.s
+src/process.s: src/process.cpp.s
+.PHONY : src/process.s
 
 # target to generate assembly for a file
-src/serial.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui-starter.dir/build.make CMakeFiles/ftxui-starter.dir/src/serial.cpp.s
-.PHONY : src/serial.cpp.s
+src/process.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui-starter.dir/build.make CMakeFiles/ftxui-starter.dir/src/process.cpp.s
+.PHONY : src/process.cpp.s
+
+src/thread.o: src/thread.cpp.o
+.PHONY : src/thread.o
+
+# target to build an object file
+src/thread.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui-starter.dir/build.make CMakeFiles/ftxui-starter.dir/src/thread.cpp.o
+.PHONY : src/thread.cpp.o
+
+src/thread.i: src/thread.cpp.i
+.PHONY : src/thread.i
+
+# target to preprocess a source file
+src/thread.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui-starter.dir/build.make CMakeFiles/ftxui-starter.dir/src/thread.cpp.i
+.PHONY : src/thread.cpp.i
+
+src/thread.s: src/thread.cpp.s
+.PHONY : src/thread.s
+
+# target to generate assembly for a file
+src/thread.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui-starter.dir/build.make CMakeFiles/ftxui-starter.dir/src/thread.cpp.s
+.PHONY : src/thread.cpp.s
 
 # Help Target
 help:
@@ -1338,9 +1362,12 @@ help:
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
-	@echo "... src/serial.o"
-	@echo "... src/serial.i"
-	@echo "... src/serial.s"
+	@echo "... src/process.o"
+	@echo "... src/process.i"
+	@echo "... src/process.s"
+	@echo "... src/thread.o"
+	@echo "... src/thread.i"
+	@echo "... src/thread.s"
 .PHONY : help
 
 

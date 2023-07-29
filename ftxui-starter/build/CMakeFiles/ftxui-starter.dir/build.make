@@ -83,30 +83,46 @@ CMakeFiles/ftxui-starter.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ftxui-starter.dir/src/main.cpp.s"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/flose/Data/Code/Linux_C/ftxui-starter/src/main.cpp -o CMakeFiles/ftxui-starter.dir/src/main.cpp.s
 
-CMakeFiles/ftxui-starter.dir/src/serial.cpp.o: CMakeFiles/ftxui-starter.dir/flags.make
-CMakeFiles/ftxui-starter.dir/src/serial.cpp.o: /home/flose/Data/Code/Linux_C/ftxui-starter/src/serial.cpp
-CMakeFiles/ftxui-starter.dir/src/serial.cpp.o: CMakeFiles/ftxui-starter.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/flose/Data/Code/Linux_C/ftxui-starter/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ftxui-starter.dir/src/serial.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui-starter.dir/src/serial.cpp.o -MF CMakeFiles/ftxui-starter.dir/src/serial.cpp.o.d -o CMakeFiles/ftxui-starter.dir/src/serial.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/src/serial.cpp
+CMakeFiles/ftxui-starter.dir/src/process.cpp.o: CMakeFiles/ftxui-starter.dir/flags.make
+CMakeFiles/ftxui-starter.dir/src/process.cpp.o: /home/flose/Data/Code/Linux_C/ftxui-starter/src/process.cpp
+CMakeFiles/ftxui-starter.dir/src/process.cpp.o: CMakeFiles/ftxui-starter.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/flose/Data/Code/Linux_C/ftxui-starter/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ftxui-starter.dir/src/process.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui-starter.dir/src/process.cpp.o -MF CMakeFiles/ftxui-starter.dir/src/process.cpp.o.d -o CMakeFiles/ftxui-starter.dir/src/process.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/src/process.cpp
 
-CMakeFiles/ftxui-starter.dir/src/serial.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ftxui-starter.dir/src/serial.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/flose/Data/Code/Linux_C/ftxui-starter/src/serial.cpp > CMakeFiles/ftxui-starter.dir/src/serial.cpp.i
+CMakeFiles/ftxui-starter.dir/src/process.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ftxui-starter.dir/src/process.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/flose/Data/Code/Linux_C/ftxui-starter/src/process.cpp > CMakeFiles/ftxui-starter.dir/src/process.cpp.i
 
-CMakeFiles/ftxui-starter.dir/src/serial.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ftxui-starter.dir/src/serial.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/flose/Data/Code/Linux_C/ftxui-starter/src/serial.cpp -o CMakeFiles/ftxui-starter.dir/src/serial.cpp.s
+CMakeFiles/ftxui-starter.dir/src/process.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ftxui-starter.dir/src/process.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/flose/Data/Code/Linux_C/ftxui-starter/src/process.cpp -o CMakeFiles/ftxui-starter.dir/src/process.cpp.s
+
+CMakeFiles/ftxui-starter.dir/src/thread.cpp.o: CMakeFiles/ftxui-starter.dir/flags.make
+CMakeFiles/ftxui-starter.dir/src/thread.cpp.o: /home/flose/Data/Code/Linux_C/ftxui-starter/src/thread.cpp
+CMakeFiles/ftxui-starter.dir/src/thread.cpp.o: CMakeFiles/ftxui-starter.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/flose/Data/Code/Linux_C/ftxui-starter/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ftxui-starter.dir/src/thread.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui-starter.dir/src/thread.cpp.o -MF CMakeFiles/ftxui-starter.dir/src/thread.cpp.o.d -o CMakeFiles/ftxui-starter.dir/src/thread.cpp.o -c /home/flose/Data/Code/Linux_C/ftxui-starter/src/thread.cpp
+
+CMakeFiles/ftxui-starter.dir/src/thread.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ftxui-starter.dir/src/thread.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/flose/Data/Code/Linux_C/ftxui-starter/src/thread.cpp > CMakeFiles/ftxui-starter.dir/src/thread.cpp.i
+
+CMakeFiles/ftxui-starter.dir/src/thread.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ftxui-starter.dir/src/thread.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/flose/Data/Code/Linux_C/ftxui-starter/src/thread.cpp -o CMakeFiles/ftxui-starter.dir/src/thread.cpp.s
 
 # Object files for target ftxui-starter
 ftxui__starter_OBJECTS = \
 "CMakeFiles/ftxui-starter.dir/src/main.cpp.o" \
-"CMakeFiles/ftxui-starter.dir/src/serial.cpp.o"
+"CMakeFiles/ftxui-starter.dir/src/process.cpp.o" \
+"CMakeFiles/ftxui-starter.dir/src/thread.cpp.o"
 
 # External object files for target ftxui-starter
 ftxui__starter_EXTERNAL_OBJECTS =
 
 ftxui-starter: CMakeFiles/ftxui-starter.dir/src/main.cpp.o
-ftxui-starter: CMakeFiles/ftxui-starter.dir/src/serial.cpp.o
+ftxui-starter: CMakeFiles/ftxui-starter.dir/src/process.cpp.o
+ftxui-starter: CMakeFiles/ftxui-starter.dir/src/thread.cpp.o
 ftxui-starter: CMakeFiles/ftxui-starter.dir/build.make
 ftxui-starter: _deps/ftxui-build/libftxui-screen.a
 ftxui-starter: _deps/ftxui-build/libftxui-dom.a
@@ -114,7 +130,7 @@ ftxui-starter: _deps/ftxui-build/libftxui-component.a
 ftxui-starter: _deps/ftxui-build/libftxui-dom.a
 ftxui-starter: _deps/ftxui-build/libftxui-screen.a
 ftxui-starter: CMakeFiles/ftxui-starter.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/flose/Data/Code/Linux_C/ftxui-starter/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable ftxui-starter"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/flose/Data/Code/Linux_C/ftxui-starter/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable ftxui-starter"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ftxui-starter.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
