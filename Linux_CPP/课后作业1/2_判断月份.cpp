@@ -143,14 +143,18 @@ using namespace std;
 // }
 
 // c char数组 字符串数组实现
-auto main() -> int
+auto
+main () -> int
 {
-    int month;
-    cout << "Enter a month (1-12): ";
-    cin >> month;
-    char english_month_array[12][10] = {{"January"}, {"February"}, {"March"}, {"April"}, {"May"}, {"June"}, {"August"}, {"September"}, {"October"}, {"Noverber"}, {"December"}};
-    if (month >= 1 && month <= 12)
-        cout << english_month_array[month - 1] << endl;
-    else
-        cout << "Invalid month\n";
+  int month;
+  cout << "Enter a month (1-12): ";
+  cin >> month;
+  char english_month_array[12][10]
+      = { { "January" }, { "February" }, { "March" },   { "April" },
+          { "May" },     { "June" },     { "August" },  { "September" },
+          { "October" }, { "Noverber" }, { "December" } };
+  if (month >= 1 && month <= 12)
+    cout << english_month_array[month - 1] << endl;
+  else
+    cout << "Invalid month\n";
 }

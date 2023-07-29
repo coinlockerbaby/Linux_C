@@ -5,47 +5,47 @@
 using namespace std;
 
 void
-task_1(void)
+task_1 (void)
 {
-    int input_num;
-    int sum = 0;
-    int ii = 0;// 有效数字个数
-    while(1)
+  int input_num;
+  int sum = 0;
+  int ii = 0; // 有效数字个数
+  while (1)
     {
-        cout << "input num: ";
-        cin >> input_num;
-        if(input_num>=1&&input_num<=100)
+      cout << "input num: ";
+      cin >> input_num;
+      if (input_num >= 1 && input_num <= 100)
         {
-            sum += input_num;
-            ii++;
+          sum += input_num;
+          ii++;
         }
-        else if(input_num == 0)
+      else if (input_num == 0)
         {
-            break;
+          break;
         }
-        else
+      else
         {
-            continue;
+          continue;
         }
     }
-    cout << "sum = " << sum <<"\n有效数据个数 = "<< ii << endl;
+  cout << "sum = " << sum << "\n有效数据个数 = " << ii << endl;
 }
 
 void
-task_2(void)
+task_2 (void)
 {
-    for(int i=1;i<=100;i++)
+  for (int i = 1; i <= 100; i++)
     {
-        if (i%5==0)
+      if (i % 5 == 0)
         {
-            cout << i <<" ";
+          cout << i << " ";
         }
     }
-    cout << endl;
+  cout << endl;
 }
 
 auto
-main()->int
+main () -> int
 {
-    task_2();
+  task_2 ();
 }

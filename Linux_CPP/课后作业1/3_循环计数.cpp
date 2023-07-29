@@ -4,33 +4,36 @@
 #include <iostream>
 using namespace std;
 
-void task_1(void)
+void
+task_1 (void)
 {
-    int i = 1;
-    int sum = 0;
-    while(i<=100)
+  int i = 1;
+  int sum = 0;
+  while (i <= 100)
     {
-       sum += i;
-       i++; 
+      sum += i;
+      i++;
     }
-    cout << "sum = " << sum << endl;
+  cout << "sum = " << sum << endl;
 }
 
-void task_2(void)
+void
+task_2 (void)
 {
-    int input = 0;
-    int sum = 0;
-    for(;sum<=5000;)
+  int input = 0;
+  int sum = 0;
+  for (; sum <= 5000;)
     {
-        cout << "please input int num: ";
-        cin >> input;
-        sum += input;
-        cout << "this time sum: " << sum <<endl;
+      cout << "please input int num: ";
+      cin >> input;
+      sum += input;
+      cout << "this time sum: " << sum << endl;
     }
-    cout << "sum = "<<sum << " over 5000"<< endl; 
+  cout << "sum = " << sum << " over 5000" << endl;
 }
 
-auto main()->int
+auto
+main () -> int
 {
-    task_2();
+  task_2 ();
 }
