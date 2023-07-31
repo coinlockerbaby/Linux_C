@@ -23,18 +23,22 @@ public:
   string m_name; // 姓名属性
   int m_age;     // 年龄属性
   // 构造函数
-  girl()
+  girl ()
   {
-    m_name.clear();
+    m_name.clear ();
     m_age = 0;
-    cout << "调用了构造函数"<<endl;
+    cout << "调用了构造函数" << endl;
   }
-  girl(string name,int age)
+  // 带型参的构造函数
+  girl (string name, int age)
   {
     m_name = name;
     m_age = age;
-    cout << "调用了带参数的构造函数"<<endl;
+    cout << "调用了带参数的构造函数" << endl;
   }
+  // 析构函数
+  ~girl () { cout << "调用了析构函数" << endl; }
+
   void
   girl_init (string name, int age)
   {
@@ -53,7 +57,6 @@ main () -> int
 {
   // girl girls();
   // girls.show();
-  girl girls("lihua",14);
-  girls.show();
-
+  girl girls ("lihua", 14);
+  girls.show ();
 }
