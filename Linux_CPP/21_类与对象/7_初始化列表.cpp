@@ -30,12 +30,12 @@ public:
   int m_age;
   boy m_boy;
 
-  girl () { cout << "调用构造函数" << endl; }
-  girl (string name, int age, boy boy1)
+  girl () { cout << "调用girl类构造函数" << endl; }
+  girl (string name, int age, boy& boy1)
   :m_name(name),m_age(age),m_boy(boy1)
   {
-    m_boy.m_xm = boy1.m_xm;
-    cout << "调用了带参数的重载构造函数" << endl;
+    //m_boy.m_xm = boy1.m_xm;
+    cout << "调用了带参数的girl类构造函数" << endl;
   }
   void
   show ()
