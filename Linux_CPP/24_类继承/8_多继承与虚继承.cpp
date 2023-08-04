@@ -4,28 +4,30 @@
 
 using namespace std;
 
-class A1
+class A
 {
 public:
   int m_a = 10;
 };
 
-class A2
+class B : virtual public A
 {
-public:
-  int m_b = 20;
+
 };
 
-class B : public A1, public A2
+class C : virtual public A
 {
-public:
-  int m_c = 30;
-};
 
+};
+class D : public B, public C
+{
+
+};
 
 auto
 main()->int
 {
-  B b;
-  cout << "A1::m_a = " << b.A1::m_a << ", A2::m_b = " << b.A2::m_b << endl;
+  D d;
+  cout << "B::m_a的地址是：" << &d.B::m_a << "，值是：" << d.B::m_a << endl;
+  cout << "C::m_a的地址是：" << &d.C::m_a << "，值是：" << d.C::m_a << endl;
 }
