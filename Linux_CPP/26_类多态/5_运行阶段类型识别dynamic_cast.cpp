@@ -41,6 +41,11 @@ public:
   {
     cout << "西施释放大招" << endl;
   }
+  void
+  show ()
+  {
+    cout << "调用类西施的show方法" << endl;
+  }
 };
 
 class LB : public Hero
@@ -83,7 +88,19 @@ main ()
       ptr->skill1 ();
       ptr->skill2 ();
       ptr->uskill ();
+      // 如过基类指针指向的对象是西施，那么调用西施的show函数
+      // C风格强制转换方法
+      // if (id == 1)
+      //   {
+      //     XS *pxs = (XS *)ptr;
+      //     pxs->show();
+      //   }
+      // 运行阶段的类型识别方法
+      XS *xsptr = dynamic_cast<XS *> (ptr);
+      if (xsptr != nullptr)
+        {
+          xsptr->show ();
+        }
     }
   delete ptr;
-  
 }
