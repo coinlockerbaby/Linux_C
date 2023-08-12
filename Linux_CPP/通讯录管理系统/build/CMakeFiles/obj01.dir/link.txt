@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/obj01.dir/src/head.cpp.o CMakeFiles/obj01.dir/src/main.cpp.o -o obj01 

@@ -1,0 +1,3 @@
+/home/flose/Data/Linux_C/Linux_CPP/通讯录管理系统/build/CMakeFiles/obj01.dir
+/home/flose/Data/Linux_C/Linux_CPP/通讯录管理系统/build/CMakeFiles/edit_cache.dir
+/home/flose/Data/Linux_C/Linux_CPP/通讯录管理系统/build/CMakeFiles/rebuild_cache.dir
