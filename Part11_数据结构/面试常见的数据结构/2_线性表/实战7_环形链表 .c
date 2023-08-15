@@ -1,6 +1,5 @@
-#include <stdio.h>
 #include <stdbool.h>
-
+#include <stdio.h>
 
 struct ListNode
 {
@@ -13,7 +12,7 @@ hasCycle (struct ListNode *head)
 {
   struct ListNode *fast = head;
   struct ListNode *slow = head;
-  while (fast&&fast->next)
+  while (fast && fast->next)
     {
       fast = fast->next->next;
       slow = slow->next;
