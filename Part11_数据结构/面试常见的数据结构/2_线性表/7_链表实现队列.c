@@ -14,14 +14,12 @@ typedef struct Queue
   LNode *front, *rear;
 } LinkQueue;
 
-
 // 判断队列为空
 int
 isEmpty (LinkQueue *queue)
 {
   return queue->front == queue->rear;
 }
-
 
 int
 initQueue (LinkQueue *queue)
@@ -56,10 +54,10 @@ deQueue (LinkQueue *queue)
   if (!isEmpty (queue))
     {
       LNode *tmp = queue->front->next;
-      queue->front->next = queue->front->next->next;
-      E e = tmp->element;
       if (queue->rear == tmp) // 如果只剩下一个元素 直接回到最初状态
         queue->rear = queue->front;
+      queue->front->next = queue->front->next->next;
+      E e = tmp->element;
       free (tmp);
       return e;
     }
@@ -76,7 +74,6 @@ printQueue (LinkQueue *queue)
       printf ("%d ", node->element);
     }
 }
-
 
 int
 main ()
