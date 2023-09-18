@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "signal.h": "c",
+    "unistd.h": "c",
+    "stdlib.h": "c",
+    "stdio.h": "c",
+    "type_traits": "c",
+    "posix_opt.h": "c",
+    "posix_types.h": "c"
+  }
+}
